@@ -1,9 +1,9 @@
 ## Hello，Welcome to my GitHub Pages
 ## 个人简历
 ### 联系方式
--QQ：2649263926
--wechat:COVER_MVP
--email：damingliao3@gmail.com
+QQ：2649263926
+wechat:COVER_MVP
+email：damingliao3@gmail.com
         2649263926@qq.com
 ### 个人信息
 -name：daming
