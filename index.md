@@ -8,6 +8,7 @@
 - 手机：13768630213，邮箱：2077704671@qq.com
 - Gitee：[https://gitee.com/testCool_20777](https://gitee.com/testCool_20777)
 - Github：[https://github.com/testCool-20777](https://github.com/testCool-20777) 
+- Github  Pages 在线简历：[https://testcool-20777.github.io/dm.GitHub.io/](https://testcool-20777.github.io/dm.GitHub.io/) 
 - 知乎：[https://www.zhihu.com/people/testcool](https://www.zhihu.com/people/testcool) 
 - CSDN：[https://blog.csdn.net/m0_54423289?spm=1010.2135.3001.5421](https://blog.csdn.net/m0_54423289?spm=1010.2135.3001.5421) 
 - Bilibili：[https://space.bilibili.com/162117970?spm_id_from=333.1007.0.0](https://space.bilibili.com/162117970?spm_id_from=333.1007.0.0) 
@@ -25,31 +26,18 @@
 
 ## 技能清单
 
-下面是一些比较基本的 Java 后端开发技能：
-
 - **计算机基础** ：熟练掌握计算机网络、数据结构和算法、操作系统，了解计算机组成原理
-- **Linux** : 熟练使用 Linux，有 Linux 下开发部署项目的实际经验
+- **Linux** : 熟练使用 Linux(CentOS 7/8)，有 Linux 下开发部署项目的实际经验以及阿里云服务器使用经验
 - **Java**：熟练掌握 Java 基础、集合、并发、熟悉 JVM 常见概念，有过 JVM 调优的经历
-- **开发工具** ：熟练使用 Maven/Gradle、Git、IDEA 、Docker 等开发工具。
+- **开发工具** ：熟练使用 Maven/Gradle、Git、InteliJ IDEA 、Docker 等开发工具。
 - **数据库**：熟练掌握 MySQL 数据库以及常见优化手段（比如索引、SQL 优化、读写分离、分库分表），Redis 实战经验丰富（搭建过 Redis 集群）
 - **框架** ：
   - 熟练掌握 Spring、Spring MVC、 SpringBoot、MyBatis、JPA、Spring Security 、Junit 等基础开发框架
-- **分布式** （可选，根据自身情况调整）：
-  - 熟练掌握 RPC（Dubbo）、分布式事务（Seata）、配置中心（Apollo）、分布式链路追踪（SkyWalking）、分布式 ID（UUID、Snowflake）、消息队列（Kafka）、限流熔断（Sentinel）的使用及原理
-  - 熟悉 Spring Cloud/Spring Cloud Alibaba 全家桶常见组件的使用，微服务架构项目开发经验丰富
-- **前端**：熟练掌握 HTML5、CSS、Javascript、Ajax，熟悉 TypeScript ，有 React、Vue 的实际开发经验
-
-还有一些工作招聘有一些特殊的要求比如：
-
-- **Devops** : 熟练掌握 Jenkins，熟悉 CI/CD 流程
-- **云原生** ：熟练掌握 Kubernetes 以及周边生态/ServiceMesh
+- **前端**：熟练掌握 HTML/HTML5、CSS、Javascript、Ajax，熟悉 TypeScript ，有 Vue和uniapp 的实际开发经验
 
 ## 实习经历
 
-**斗鱼（2017 年 6 月 ~ 2017 年 9 月 ）**
-
-- **职位**：Java 后端开发工程师
-- **工作内容**：主要负责......
+集体实习经历
 
 ## 项目经历 
 
@@ -62,29 +50,15 @@
 - **个人收获** （可选） ：从这个项目中你学会了那些东西，使用到了那些技术，学会了那些新技术的使用
 - **项目成果**（可选）：简单描述这个项目取得了什么成绩。
 
-## 荣誉奖项（可选）
-
-如果你有含金量比较高的竞赛（比如ACM、阿里的天池大赛）的获奖经历的话，荣誉奖项这块内容一定要写一下！并且，你还可以将荣誉奖项这块内容适当往前放，放在一个更加显眼的位置。
-
-## 开源项目（可选）
-
-如果有觉得比较有价值的个人或者自己参与过开源项目的话，可以放在这里。
-
-## 原创技术文章（可选）
-
-如果有觉得比较有价值的个人原创技术文章的话，可以放在这里。
-
-## 校园经历（可选）
-
-如果有比较亮眼的校园经历的话就简单写一下，没有就不写！
-
 ## 个人评价
 
-我是 XXX
+我热爱编程,喜欢专研新技术
 
 ## 感谢阅读
 
-感谢您花时间阅读我的简历，期待能与您共事！
+感谢您的宝贵时间
+
+<div style="page-break-after: always;"></div>
         
 
 
